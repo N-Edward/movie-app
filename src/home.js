@@ -55,7 +55,7 @@ const Home = () => {
                </div>
                 </>
             ) )
-        ):(<p className="nomovie">movie doesn't esxist</p>)}
+        ):(<p className="nomovie">movie doesn't exist</p>)}
         </div>
                 ):(
                     <div className="network-error">
